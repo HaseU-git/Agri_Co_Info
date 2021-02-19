@@ -8,7 +8,7 @@ CSV_NAME = "result.csv"
 DIR = "./"
 COMPANY_NUM = 541
 CONTENT_SELECOTR = ".type.type-b dd dd"
-COLUMNS_SELECOTR = ".type.type-b dd d"
+COLUMNS_SELECOTR = ".type.type-b dd dt"
 INTERVAL = 1
 
 def create_url_list():
