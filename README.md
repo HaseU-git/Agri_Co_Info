@@ -48,6 +48,7 @@ pipenv run python scraping_agri_co_info.py
 ```
 
 上記のコマンドを実行し、プログラムを実行しWebブラウザが自動でサイトにアクセスを始めたらブログラムが正常に動いています。  
+`result.csv`に出力されます。  
 
 ## 開発環境
 - MacBook Pro (15-inch, 2018)
