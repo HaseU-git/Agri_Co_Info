@@ -12,6 +12,13 @@ Pythonのライブラリであるpipienvを利用したパッケージ管理方�
 また、このコードはPythonでできるだけ可読性の高いコードを書くことを意識してコーディングしていきました。  
 
 ## 使い方
+まず、リポジトリをクローンします。  
+
+```shell
+git clone https://github.com/HaseU-git/Agri_Co_Info
+cd Agri_Co_Info/project
+```
+
 Pythonおよびpipをインストールしていない場合には、先にこれらのインストールが必要です。  
 なお、このコードではPython3.9.1を使用しています。  
 
